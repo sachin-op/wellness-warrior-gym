@@ -192,7 +192,7 @@ export default function Home() {
             <Link to="/login"   className="hover:text-yellow-400 transition">Login</Link>
             <Link to="/register" className="hover:text-yellow-400 transition">Register</Link>
           </div>
-          <p className="text-gray-600 text-sm"> Unisex Gym - WellnessWarrior.</p>
+           <p className="text-gray-600 text-sm">Unisex Gym - WellnessWarrior. | Website designed by Sachin Agrahari | Phone: 7518931865</p>
         </div>
       </footer>
 
