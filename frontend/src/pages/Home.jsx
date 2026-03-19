@@ -192,7 +192,7 @@ export default function Home() {
             <Link to="/login"   className="hover:text-yellow-400 transition">Login</Link>
             <Link to="/register" className="hover:text-yellow-400 transition">Register</Link>
           </div>
-          <p className="text-gray-600 text-sm">© 2026 IronForge Gym. All rights reserved.</p>
+          <p className="text-gray-600 text-sm"> Unisex Gym - WellnessWarrior.</p>
         </div>
       </footer>
 
