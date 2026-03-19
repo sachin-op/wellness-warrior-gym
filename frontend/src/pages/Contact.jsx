@@ -90,9 +90,9 @@ export default function Contact() {
 
         <div className="grid grid-cols-3 gap-4 mt-8">
           {[
-            { label: 'Location',  value: '12 Civil Lines, Prayagraj' },
-            { label: 'Phone',     value: '+91 98765 43210' },
-            { label: 'Hours',     value: 'Mon–Sat: 5AM – 11PM' },
+            { label: 'Location',  value: 'Unchwagarhi,Behind 80 Mtr.AMA Blood Bank Rajapur, Prayagraj' },
+            { label: 'Phone',     value: '+91 9532776199' },
+            { label: 'Hours',     value: 'Mon–Sat: 5AM – 9PM' },
           ].map(item => (
             <div key={item.label} className="bg-gray-900 border border-gray-700 rounded-xl p-4 text-center">
               <p className="text-yellow-400 text-xs font-bold uppercase tracking-widest mb-1">{item.label}</p>
